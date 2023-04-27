@@ -15,13 +15,7 @@
 //     },1000)
 // })
 
-// stop.addEventListener('click',()=>{
-//     clearInterval(timer)
-// })
-// // btn.addEventListener('click',()=>{
-    
-//     console.log('tugma bosildi!',count++)
-// })
+
 
 let btn = document.getElementById('random')
 let h2 = document.querySelector('h2')
